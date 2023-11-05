@@ -66,9 +66,15 @@ theme = 'hugo-theme-shell'
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
 
-    ["Syllabus Sem7 ", "/SEM7-13mb.pdf"],
+    ["1st Linear ", "https://0x0.st/HtBW.py"],
+    ["2nd logistic ", "https://0x0.st/HtBt.py"],
+    ["3rd boosting ", "https://0x0.st/HtBw.py"],
+    ["4th SVM ", "https://0x0.st/HtBY.py"],
+    ["5th PCA ", "https://0x0.st/"],
+    ["6th graph ", "https://0x0.st/HtBE.py"],
+    ["Collab", "https://clg.ullblocks.study/"],
     ["Syllabus ", "/SEM7.pdf"],
-    ["Personal website", "https://nullblocks.study/"],
-    ["First post", "/posts/my-first-post.md"],
-    ["Links ", "/post/some-activity.md"],
+
+
+
   ]
