@@ -46,11 +46,9 @@ theme = 'hugo-theme-shell'
 
   # activityDelay = 5 : deprecated
 
-  #description = """
-  #Hi I am nullblocks!
-  #Nice to meet you!
-  #
-  #"""
+  description = """
+ 
+  """
 
   # Note: If you want to use a Markdown file, you can use the following
   # description = "/description.md"
