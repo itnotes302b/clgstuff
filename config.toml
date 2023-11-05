@@ -6,11 +6,7 @@ theme = 'hugo-theme-shell'
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
   description = "Jane Doe's Portfolio!"
   [Params.Terminal]
-  # Note: color scheme
-  # Note: You can choose between
-  # Note: hugo-theme-shell original: ["shell-powershell", "shell-ubuntu", "shell-retro"]
-  # Note: or
-  # Note: gogh theme: https://mayccoll.github.io/Gogh/
+
   scheme = "Molokai"
 
   # Note: in terminal
@@ -24,8 +20,8 @@ theme = 'hugo-theme-shell'
   # ./[folderName]/
   # ...
   # Note: result of the tree command
-  userName = "nullblocks"
-  pcName = "system"
+  userName = "null"
+  pcName = "blocks"
   workDir = "mydir"
   profile = "profile.txt"
 
@@ -36,7 +32,7 @@ theme = 'hugo-theme-shell'
   # Note: and set "math: true" at front matter in your Markdown file
   ps1Delay = 0 # prompt speed : [userName]@[pcName]:~/$ , [userName]@[pcName]:~/[workDir]$
   stdoutDelay = 0 # stdout speed : [description] , files in Params.Tree
-  commandDelay = 50 # command speed : cd [workDir] , cat [profile] , tree ./[folderName]/
+  commandDelay = 0 # command speed : cd [workDir] , cat [profile] , tree ./[folderName]/
 
   # terminalDelay = 20 : deprecated
 
@@ -50,11 +46,11 @@ theme = 'hugo-theme-shell'
 
   # activityDelay = 5 : deprecated
 
-  description = """
-  Hi I am nullblocks!
-  Nice to meet you!
-  
-  """
+  #description = """
+  #Hi I am nullblocks!
+  #Nice to meet you!
+  #
+  #"""
 
   # Note: If you want to use a Markdown file, you can use the following
   # description = "/description.md"
