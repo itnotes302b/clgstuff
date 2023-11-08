@@ -60,13 +60,9 @@ theme = 'hugo-theme-shell'
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
 
-    ["1st Linear ", "https://0x0.st/HtBW.py"],
-    ["2nd logistic ", "https://0x0.st/HtBt.py"],
-    ["3rd boosting ", "https://0x0.st/HtBw.py"],
-    ["4th SVM ", "https://0x0.st/HtBY.py"],
-    ["5th PCA ", "https://0x0.st/HtBd.py"],
-    ["6th graph ", "https://0x0.st/HtBE.py"],
-    ["Collab", "https://colab.research.google.com/drive/1zVHKAICWU2S7f741ACQA23Ceh3e_Gah2?usp=sharing"],
+    ["BDA all Praticals ", "https://0x0.st/Htx_.pdf"],
+    ["", ""],
+    
     ["Syllabus ", "/SEM7.pdf"],
 
 
